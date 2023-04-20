@@ -1,4 +1,4 @@
-# Data-Science-Portfolio
+# Skill based Portfolio
 [LinkedIn](https://www.linkedin.com/in/omarkhaledraouf/)
 ---
 
